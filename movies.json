@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "movieID": 1,
+      "Title": "Schindler's List",
+      "Genre": "Drama, Biography",
+      "Length": "3:15",
+      "Rating": "9.0/10"
+    },
+    {
+      "movieID": 2,
+      "Title": "Logan",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Length": "2:17",
+      "Rating": "8.1/10"
+    },
+    {
+      "movieID": 3,
+      "Title": "Logan",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Length": "2:17",
+      "Rating": "8.1/10"
+    },
+    {
+      "movieID": 4,
+      "Title": "Dune: Part 1",
+      "Genre": "Action, Adventure, Drama",
+      "Length": "2:25",
+      "Rating": "8.0/10"
+    },
+    {
+      "movieID": 5,
+      "Title": "Dune: Part 2",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Length": "2:46",
+      "Rating": "8.8/10"
+    },
+    {
+      "movieID": 6,
+      "Title": "The Dark Knight",
+      "Genre": "Action, Drama, Crime",
+      "Length": "2:32",
+      "Rating": "9.0/10"
+    },
+    {
+      "movieID": 7,
+      "Title": "Logan",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Length": "2:17",
+      "Rating": "8.1/10"
+    },
+    {
+      "movieID": 8,
+      "Title": "Pulp Fiction",
+      "Genre": "Crime, Drama",
+      "Length": "2:34",
+      "Rating": "8.9/10"
+    },
+    {
+      "movieID": 9,
+      "Title": "Fight Club",
+      "Genre": "Drama",
+      "Length": "2:19",
+      "Rating": "8.8/10"
+    },
+    {
+      "movieID": 10,
+      "Title": "Se7en",
+      "Genre": "Crime, Drama, Mystery",
+      "Length": "2:07",
+      "Rating": "8.6/10"
+    },
+    {
+      "movieID": 11,
+      "Title": "Whiplash",
+      "Genre": "Drama, Music",
+      "Length": "1:46",
+      "Rating": "8.5/10"
+    },
+    {
+      "movieID": 12,
+      "Title": "Django Unchained",
+      "Genre": "Drama, Western",
+      "Length": "2:45",
+      "Rating": "8.5/10"
+    }
+  ]
+}
